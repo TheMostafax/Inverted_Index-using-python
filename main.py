@@ -1,2 +1,0 @@
-//inverted index
-//inverted index
